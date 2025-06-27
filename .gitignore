@@ -1,0 +1,26 @@
+# Flutter & Dart
+*.lock
+*.log
+.dart_tool/
+.packages
+.pub/
+build/
+
+# macOS
+*.DS_Store
+
+# VS Code / IntelliJ / Android Studio
+.idea/
+.vscode/
+
+# Python virtual envs
+**/venv/
+**/__pycache__/
+
+# Flutter specific
+comic_spoiler_mobile_frontend/build/
+comic_spoiler_mobile_frontend/ios/Flutter/Flutter.framework
+comic_spoiler_mobile_frontend/ios/Flutter/Flutter.podspec
+comic_spoiler_mobile_frontend/macos/Flutter/ephemeral/
+comic_spoiler_mobile_frontend/android/.gradle/
+comic_spoiler_mobile_frontend/android/app/build/
