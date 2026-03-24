@@ -1,5 +1,3 @@
----
-
 # 📱 Comic Spoiler Detection Mobile App
 
 ## 📌 Overview
@@ -199,7 +197,7 @@ Mobile App (Flutter)
 
 # 👨‍💻 Author
 
-Your Name
+Sreevedh Jella
 
 ---
 
